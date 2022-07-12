@@ -33,6 +33,7 @@
     <section id="admin">
         <a href="display.php" class="button_admin">Registration Form Data</a>
         <a href="displaycontact.php" class="button_admin">Contact Form Data</a>
+        <a href="venue.php" class="button_admin">Change Venue</a>
     </section>
 </body>
 

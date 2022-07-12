@@ -133,7 +133,6 @@ if ($total != 0) {
         <td>" . $result['age'] . "</td>
         <td>" . $result['gender'] . "</td>
         <td>
-        <a href='update_design.php?id=$result[id]'> <input type='submit' value='Edit' class='update'> </a> 
         <a href='delete.php?id=$result[id]'> <input type='submit' value='Delete' class='delete' onclick= 'return checkdelete()'> </a> 
         </td>
         </tr>";

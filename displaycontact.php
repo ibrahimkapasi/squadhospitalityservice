@@ -120,9 +120,7 @@ if ($total != 0) {
     <?php
 
     while ($result = mysqli_fetch_assoc($data)) {
-        echo "<tr>
-        <td>" . $result['id'] . "</td>
-        <td>" . $result['name'] . "</td>
+        echo "<tr> <td>" . $result['id'] . "</td> <td>" . $result['name'] . "</td>
         <td>" . $result['email'] . "</td>
         <td>" . $result['message'] . "</td>
         </tr>";
