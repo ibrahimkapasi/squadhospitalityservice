@@ -37,7 +37,7 @@
     <div class='form_body'>
         <div class='box'>
             <div class='title'>REGISTRATION</div>
-            <form action="#" method="POST">
+            <form action="home.php" method="POST">
                 <div class='user-details'>
                     <div class='input-box'>
                         <span class='details'>Full Name</span>

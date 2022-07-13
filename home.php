@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="./home.css">
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="icon" href="./img/favicon-32x32.png" type="image/x-icon">
 
 </head>
 
@@ -166,7 +167,7 @@
                         <li><a href='#'>
                                 <i class="fa-brands fa-facebook social_1"></i>
                             </a></li>
-                        <li><a href='#'>
+                        <li><a href='https://www.instagram.com/squad_hospitality_service/'>
                                 <i class="fa-brands fa-instagram social_2"></i>
                             </a></li>
                     </ul>
