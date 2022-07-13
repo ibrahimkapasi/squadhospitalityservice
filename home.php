@@ -17,14 +17,13 @@
 <body>
 
     <section id="header">
-        <a href="home.php"><img src="./img/logo.png" class="logo" alt="logo"></a>
+        <a href="home.php"><img src="./img/logo-1.png" class="logo" alt="logo"></a>
 
         <div>
             <ul id="navbar">
                 <li><a class="active" href="home.php">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#gallery">Gallery</a></li>
-                <li><a href="#testimonials">Testimonials</a></li>
                 <li><a href="#contact">Contact</a></li>
                 <a href="#" id="close"><i class="fa fa-times"></i></a>
             </ul>
@@ -104,64 +103,6 @@
                     <div class="columns columns_mobile">
                         <img src="./img/pic7.jpg" alt="">
                         <img src="./img/pic8.jpg" alt="">
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="testimonials">
-            <div class='test_body'>
-                <div>
-                    <h1>Client Reviews</h1>
-                    <div class="testimonial">
-                        <div class="small-container">
-                            <div class="row">
-                                <div class="col-3">
-                                    <i class="fa fa-pen-to-square test_icon_1"></i>
-                                    <p>I'm Happy with the deal i got from the company, The price are cheaper than other sites and there was no issue with the product it was fantastic. RedStore is reliable. I prefer Redstore over all websites out there.</p>
-                                    <div class="rating">
-                                        <i class="fas fa-star test_icon_star"></i>
-                                        <i class="fas fa-star test_icon_star"></i>
-                                        <i class="fas fa-star test_icon_star"></i>
-                                        <i class="fas fa-star test_icon_star"></i>
-                                    </div>
-
-                                    <i class="fa-regular fa-user test_icon_2"></i>
-                                    <h3>Ginny Weasly</h3>
-                                </div>
-
-                                <div class="col-3">
-                                    <i class="fa fa-pen-to-square test_icon_1"></i>
-
-                                    <p>This company has been one of my favorites for a long time, and their products are both high-quality and long-lasting. They're trendy, comfortable, and affordable. </p>
-                                    <div class="rating">
-                                        <i class="fas fa-star test_icon_star"></i>
-                                        <i class="fas fa-star test_icon_star"></i>
-                                        <i class="fas fa-star test_icon_star"></i>
-                                        <i class="fas fa-star test_icon_star"></i>
-                                        <i class="fas fa-star test_icon_star"></i>
-                                    </div>
-
-                                    <i class="fa-regular fa-user test_icon_2"></i>
-                                    <h3>Albus Dumbledore</h3>
-                                </div>
-                                <div class="col-3">
-
-                                    <i class="fa fa-pen-to-square test_icon_1"></i>
-                                    <p>I Highly recommend RedStore for shopping.The quality of the product is best, They even offer great deals to the customers. Customers Care services are there for us 24*7. </p>
-                                    <div class="rating">
-                                        <i class="fas fa-star test_icon_star"></i>
-                                        <i class="fas fa-star test_icon_star"></i>
-                                        <i class="fas fa-star test_icon_star"></i>
-                                        <i class="fas fa-star test_icon_star"></i>
-                                        <i class="fas fa-star-half test_icon_star"></i>
-                                    </div>
-
-                                    <i class="fa-regular fa-user test_icon_2"></i>
-                                    <h3>Lilly Potter</h3>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>

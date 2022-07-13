@@ -14,14 +14,13 @@
 <body>
 
     <section id="header">
-        <a href="home.php"><img src="./img/logo.png" class="logo" alt="logo"></a>
+        <a href="home.php"><img src="./img/logo-1.png" class="logo" alt="logo"></a>
 
         <div>
             <ul id="navbar">
                 <li><a class="active" href="home.php">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#gallery">Gallery</a></li>
-                <li><a href="#testimonials">Testimonials</a></li>
                 <li><a href="#contact">Contact</a></li>
                 <a href="#" id="close"><i class="fa fa-times"></i></a>
             </ul>

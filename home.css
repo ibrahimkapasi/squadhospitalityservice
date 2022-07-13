@@ -100,7 +100,7 @@ nav ul li a {
   position: sticky;
   top: 0;
   left: 0;
-  height: 14vh;
+  height: 12vh;
 }
 
 #navbar {
@@ -117,7 +117,7 @@ nav ul li a {
 
 #navbar li a {
   text-decoration: none;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 600;
   color: #1a1a1a;
   transition: 0.3s ease;
@@ -154,11 +154,11 @@ nav ul li a {
 }
 
 #header .logo {
-  width: 110px;
-  height: 150px;
-  padding-top: 50px;
-  padding-left: 30px;
-  padding-bottom: 30px;
+  width: 60px;
+  height: 85px;
+  padding-top: 2px;
+  padding-left: 70px;
+  padding-bottom: 0px;
 }
 
 /* Home Section */
@@ -554,88 +554,7 @@ form .buttonn {
   width: 100%;
 }
 
-/*******************************************************************/
 
-/* TESTIMONIALS CSS STARTS */
-
-/*******************************************************************/
-
-.testimonial {
-  padding-top: 100px;
-}
-
-.test_body {
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #ffffff;
-}
-
-.test_body h1 {
-  align-items: center;
-  color: #ff522b;
-  text-align: center;
-  font-weight: 600;
-  font-size: 42px;
-}
-
-.test_body p {
-  text-align: center;
-}
-
-.col-3 {
-  flex-basis: 25%;
-  min-width: 250px;
-  margin-bottom: 30px;
-}
-
-.row {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-.testimonial .col-3 {
-  text-align: center;
-  padding: 40px 20px;
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.155);
-  cursor: pointer;
-  transition: 0.5s;
-  border-radius: 20px;
-}
-
-.testimonial .col-3:hover {
-  transform: translateY(-10px);
-}
-
-.test_icon_1 {
-  font-size: 36px;
-  color: #ff522b;
-}
-
-.test_icon_2 {
-  font-size: 25px;
-  color: #ff522b;
-}
-
-.test_icon_star {
-  color: #ff522b;
-  font-size: 20px;
-}
-
-.col-3 p {
-  font-size: 12px;
-  margin: 12px 0;
-  color: #3c3c55;
-}
-
-.testimonial .col-3 h3 {
-  font-weight: 600;
-  color: #3c3c55;
-  font-size: 16px;
-}
 
 /*******************************************************************/
 
@@ -985,7 +904,6 @@ footer {
     font-weight: 700;
   }
 
-  /* Testimonials Section */
 
   .navigation-menu {
     height: 45px;
@@ -1327,8 +1245,8 @@ footer {
   }
 
   #header .logo {
-    width: 170px;
-    height: 210px;
+    width: 70px;
+    height: 110px;
     padding-top: 50px;
     padding-left: 30px;
     padding-bottom: 30px;
